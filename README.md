@@ -3,7 +3,7 @@
 I created this app to enable quicker exploration of vulcano-plots between clusters/groups of scRNAseq datasets.
 
 The app is written in python using and [bokeh](https://docs.bokeh.org/en/latest/) (from [pyviz](https://pyviz.org/)). I use [scanpy](https://scanpy.readthedocs.io/en/stable/) to deal with the data. Statistics are mostly done using [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/).
-The [panel](https://panel.holoviz.org/) (also from pyviz ecosystem) has been updated since I made this app, and it would be significantly easier to use their higher-level api (thats build on top of bokeh) next time.
+The python package [panel](https://panel.holoviz.org/) (also from pyviz ecosystem) has been updated since I made this app, and it would be significantly easier to use their higher-level api (thats build on top of bokeh) next time.
 
 The code (see the .ipynb notebook) is given without data, since I do not have the right to redistribute it. This means that the code cannot actually run.
 
