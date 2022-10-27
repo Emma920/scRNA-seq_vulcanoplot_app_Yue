@@ -6,3 +6,5 @@ The app is written in python using and bokeh (pybiz). I use scanpy to deal with 
 The panel (pyviz ecosystem) has been updated since I made this app, and it would be significantly easier to use their higher-level api (the build on top of bokeh) next time.
 
 The code here is given without data, since I do not have the right to redistribute it. This means that the code cannot actually run.
+
+<img src="https://github.com/Emma920/scRNA-seq_vulcanoplot_app_Yue/raw/main/Screenshot.png" width="100" height="100"/>
