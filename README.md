@@ -7,4 +7,4 @@ The panel (pyviz ecosystem) has been updated since I made this app, and it would
 
 The code here is given without data, since I do not have the right to redistribute it. This means that the code cannot actually run.
 
-<img src="https://github.com/Emma920/scRNA-seq_vulcanoplot_app_Yue/raw/main/Screenshot.png" width="100" height="100"/>
+<img src="https://github.com/Emma920/scRNA-seq_vulcanoplot_app_Yue/raw/main/Screenshot.png" height="300"/>
